@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StormBreaker">
+    <output-path>$PROJECT_DIR$/out/artifacts/StormBreaker</output-path>
+    <root id="archive" name="StormBreaker.jar">
+      <element id="module-output" name="StormBreaker" />
+    </root>
+  </artifact>
+</component>
